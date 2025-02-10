@@ -20,7 +20,7 @@ export 'package:connectivity_plus/connectivity_plus.dart';
 export 'package:logging/logging.dart' show Level, LogRecord, Logger;
 
 export 'package:dio/dio.dart';
-export 'package:dio/browser.dart';
+// export 'package:dio/browser.dart';
 export 'package:dio/io.dart';
 
 export 'package:sqflite/sqflite.dart';
